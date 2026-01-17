@@ -9,8 +9,6 @@ L'objectif était de passer d'un simple script de base à un environnement de pr
 - **Poids de la base :** 2.8 GB.
 - **Moteur :** InnoDB (MySQL).
 
-
-
 ---
 
 ## 🛠️ Contenu du Toolkit
@@ -52,4 +50,4 @@ Scripts automatisés pour vérifier la disponibilité de la base de données et 
 ---
 
 ## 👨‍💻 Pourquoi ce projet ?
-Initialement orienté Data, j'ai développé ce toolkit pour démontrer que la maîtrise fine du SQL et de la gestion des données est le pilier central de la **fiabilité (SRE)** et de l'**automatisation des tests (QA)**
+Initialement orienté Data, j'ai développé ce toolkit pour démontrer que la maîtrise fine du SQL et de la gestion des données est le pilier central de la **fiabilité (SRE)** et de l'**automatisation des tests (QA)**.
