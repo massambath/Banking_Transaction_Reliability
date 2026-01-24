@@ -7,7 +7,7 @@ L'objectif était de passer d'un simple script de base à un environnement de pr
 
 - **Volume de données :** 22 294 503 transactions.
 - **Poids de la base :** 2.8 GB.
-- **Moteur :** InnoDB (MySQL).
+- **Moteur :**  (MySQL).
 
 ---
 
